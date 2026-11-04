@@ -1,0 +1,19 @@
+#+title: Lisp code examples
+
+* Overview
+This post is to test how the code formatting works for various languages
+
+** Emacs Lisp
+
+#+begin_src scheme
+  (gimp-image-new 1000 2000 RGB)
+#+end_src
+
+#+begin_src javascript
+  const a = 1;
+  const b = 2;
+  function add (x, y) {
+    return x +y;
+  }
+  add(a,b)
+#+end_src
