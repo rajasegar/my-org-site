@@ -1,0 +1,2 @@
+* My Org Blog
+My blog created using org-mode with Emacs
