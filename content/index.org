@@ -1,10 +1,16 @@
-#+title: Org Mode Example Site
+#+title: Digital Life of Rajasegar
 
-* Overview
+* Digital Life of Rajasegar
 
-This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode]]!
+This website is my digital footprint on the Internet. I am Rajasegar
+Hello and welcome to my blog! I'm Rajasegar, a developer with a passion for sharing knowledge and experiences with like-minded individuals.
+When I'm not working, you can find me exploring new ideas, learning from others, and reflecting on life's journey.
 
-Here is a link to my [[./lisp-code-examples.org][Lisp code examples]].
+This space is where I share my thoughts, ideas, and stories on GIMP, Emacs and GMIC and so on.
+I'm excited to connect with you, learn from your perspectives, and grow together. Thanks for stopping by!
+
+
+
 
 * Links
 
