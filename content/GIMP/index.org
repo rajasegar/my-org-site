@@ -1,0 +1,13 @@
+#+title: GIMP
+
+* GIMP
+This is a space where I will share my thoughts on GIMP.
+GIMP stands for GNU Image Manipulation Program
+
+** Tutorials
+ - TBA
+ - TBA
+ - TBA
+
+** Articles
+ - TBA
