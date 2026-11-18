@@ -1,106 +1,92 @@
 #+title: About Me!
- <p>I am a Front-end Architect from Chennai, India. 
-        I work for a company called <a href="https://www.caterpillar.com/en/company.html">Caterpillar</a> as a Principal Software Engineer where we build <a href="https://digital.cat.com/">awesome products</a> for the the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives.</p>
+* About Me!
+I am a retired Front-end Architect from Chennai, India. 
 
-      <p>I love books, art, music and movies. I used to be a <a href="https://www.deviantart.com/rajasegar">Graphic Designer</a> and Systems Programmer once.</p>
-      <p>I love programming languages like <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>, 
-      <a href="https://www.ruby-lang.org/en/">Ruby</a>, <a href="https://www.haskell.org/">Haskell</a> 
-      and <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp</a>. I wholeheartedly embrace Functional Programming, 
-      Code clarity, Performance, Accessibility and Internationalization.</p>
-      <p>I am passionate about Open Source Software and Contributions, recently, I have been writing tools in JS</p>
-      <p>I write code in <a href="https://emberjs.com">Ember.js</a> and <a href="https://reactjs.org">React.js</a></p>
-      <p>My favorite editors are <a href="https://www.gnu.org/software/emacs/">Emacs</a> and  <a href="https://www.vim.org/">Vim</a> (in order of preference)</p>
-
+I love books, art, music and movies. I used to be a <a href="https://www.deviantart.com/rajasegar">Graphic Designer</a> and Systems Programmer once.</p>
+I love programming languages like <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>, 
+<a href="https://www.ruby-lang.org/en/">Ruby</a>, <a href="https://www.haskell.org/">Haskell</a> 
+and <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp</a>. I wholeheartedly embrace Functional Programming, 
+Code clarity, Performance, Accessibility and Internationalization.</p>
+I am passionate about Open Source Software and Contributions, recently, I have been writing tools in Script-Fu (A dialect of Scheme) for GIMP</p>
+My favorite editors are <a href="https://www.gnu.org/software/emacs/">Emacs</a> and  <a href="https://www.vim.org/">Vim</a> (in order of preference)</p>
 
 
-      <h3>Speaking</h3>
+
+** Speaking
       I love to speak and participate in conferences, meetups and workshops.
       <ul>
-        <li>
+        - 
           <a href="https://www.youtube.com/watch?v=B0SC-IzK0PQ&t=5036s">Svelte and the Paradox of Choice</a> | 
           <a href="https://t.co/87pLOTF9Dw">Slides</a>
-        </li>
-        <li>
+        
+        - 
           <a href="">CSS through the ages</a> | 
           <a href="https://github.com/rajasegar/css-through-the-ages">Slides</a>
-        </li>
-        <li>
+        
+        - 
           <a href="https://youtu.be/GCneFvINPVc">Building Bridges to the DOM with Modifiers (Ember.js Chennai Meetup 2021)</a> | 
           <a href="https://drive.google.com/file/d/179FPZFRqszFSAv3YZcc-FQPOy6obBXEL/view">Slides</a>
-        </li>
-        <li>
+        
+        - 
           <a href="https://www.youtube.com/watch?v=2o0AKwfA9og">A Super Tiny, Framework Agnostic CSS-in-JS ( Javascript and Friends Oct 21, 2020 )</a> | 
           <a href="https://rajasegar.github.io/csz-slides">Slides</a>
-        </li>
-        <li>
+        
+        - 
           <a href="https://www.youtube.com/watch?v=uZrVHGEjLhs">A Super Tiny, Framework Agnostic CSS-in-JS ( ESNEXT 2020 )</a> | 
           <a href="https://drive.google.com/file/d/14aZWTEOKlXC3wjmlCQ7yzGTLDiVtWLVB/view">Slides</a>
-        </li>
-        <li>
+        
+        - 
           <a href="https://www.youtube.com/watch?v=akKMopknEwc&feature=youtu.be">Codemods: A Paradigm Shift in migrating large codebases in JSFoo Pune 2020</a> | 
           <a href="https://drive.google.com/file/d/1fHmdLBZktBE_yvhP4Oj75zoFOMYGuob5/view">Slides</a>
-        </li>
-        <li>
+        
+        - 
           <a href="https://www.youtube.com/watch?v=9RkLvitlydo&list=PLYsjFaJ-lFEgPfX03Ll91YI5gEHrbZ-b9&index=3">The Art of Crafting Codemods in Javascript Bangkok</a> | 
           <a href="https://tinyurl.com/jsbkcodemods">Slides</a>
-        </li>
-        <li>
+        
+        - 
           <a href="https://www.youtube.com/watch?v=500A6_EsKh0">The Art of Crafting Codemods</a> | 
           <a href="https://slides.com/rajasegarchandiran/codemods-vue">Slides</a>
-        </li>
-        <li>
+        
+        - 
           <a href="https://www.youtube.com/watch?v=CT3Vn1Cucq0&t=948s">ASTs & Ember.js</a> | 
           <a href="https://slides.com/rajasegarchandiran/deck-1">Slides</a>
-        </li>
-        <li>
+        
+        - 
           <a href="">The OSS Bazaar</a> | 
           <a href="https://drive.google.com/open?id=1nIjpeDPxAZjkSOmuUawDtrjD-TDNfGge">Slides</a>
-        </li>
-        <li>
+        
+        - 
           <a href="">Keep Calm and Do Large-scale Refactorings</a> |
           <a href="https://drive.google.com/open?id=1bb1JvSBRaMSYHaleMgqpfrHku1IMXenu">Slides</a>
-        </li>
-        <li>
+        
+        - 
           <a href="">Micro Frontends</a> | 
           <a href="https://drive.google.com/open?id=1MgUmZBZrvqIgWZOnnM4i7S1rRc1Hyykz">Slides</a>
-        </li>
+        
       </ul>
       
 
-      <h3>Books</h3>
-      <p>I love reading books all the day. I do have a mini Library in home. I love Technology, Psychology and Non-Fiction genres.</p>
-      <p>These are some of the life-changing books I have read, which altered my perception and outlook.</p>
-      <ul>
-        <li>Rich Dad, Poor Dad by Robert Kiyosaki</li>
-        <li>The Monk who sold his Ferarri by Robin Sharma</li>
-        <li>Pragmatic Learning and Thinking by Andy Hunt and Dave Thomas</li>
-        <li>Deep Work by Cal Newport</li>
-        <li>Drive by Daniel Pink</li>
-        <li>The Mythical Man Month by Fred Brooks</li>
-        <li>The Elements of Programming Style by Brian Kernighan</a>
-        <li>Mindset by Carol S Dweck</li>
-        <li>Grit by Angle Duckworth</li>
-        <li>Peopleware by Tom DeMarco</a>
-        <li>Black Swan by Nicholas Nassim Taleb</li>
-        <li>The Craftsman by Richard Sennett</li>
-      </ul>
+** Books
+    I love reading books all the day. I do have a mini Library in home. I love Technology, Psychology and Non-Fiction genres.</p>
+    These are some of the life-changing books I have read, which altered my perception and outlook.</p>
+    - Rich Dad, Poor Dad by Robert Kiyosaki
+    - The Monk who sold his Ferarri by Robin Sharma
+    - Pragmatic Learning and Thinking by Andy Hunt and Dave Thomas
+    - Deep Work by Cal Newport
+    - Drive by Daniel Pink
+    - The Mythical Man Month by Fred Brooks
+    - The Elements of Programming Style by Brian Kernighan
+    - Mindset by Carol S Dweck
+    - Grit by Angle Duckworth
+    - Peopleware by Tom DeMarco
+    - Black Swan by Nicholas Nassim Taleb
+    - The Craftsman by Richard Sennett
 
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>My Social Profile</h3>
-<ul>
-  <li>
-    <a href="https://www.facebook.com/rajasegar.chandiran">Facebook</a>
-  </li>
-  <li>
-    <a href="https://www.twitter.com/rajasegar_c">Twitter</a>
-  </li>
-  <li>
-    <a href="https://www.linkedin.com/in/rajasegar-chandiran-91756922">LinkedIn</a>
-  </li>
-  <li>
-    <a href="https://www.github.com/rajasegar">Github</a>
-  </li>
-  </ul>
+** My Social Profile
+ - [[https://www.facebook.com/rajasegar.chandiran][Facebook]]
+ - [[https://www.x.com/rajasegar_c][X]]
+ - [[https://www.linkedin.com/in/rajasegar-chandran][LinkedIn]]
+ - [[https://www.github.com/rajasegar][Github]]
   
   
 	
