@@ -44,7 +44,7 @@
              :publishing-directory "./public"
              :with-author t           ;; Don't include author name
              :with-creator t            ;; Include Emacs and Org versions in footer
-             :with-toc t                ;; Include a table of contents
+             :with-toc nil                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
              :time-stamp-file nil
              :html-head-include-default-style t
@@ -55,7 +55,15 @@
              :html-head-extra head-extra-template
              :html-preamble header-nav
              :html-postamble footer-template
+             )
+       (list "org-site:images"
+             :base-directory "./content/images"
+             :base-extension "png\\|jpg\\|svg"
+             :publishing-directory "./public/images"
+             :publishing-function 'org-publish-attachment
+             :recursive t   
              )))    ;; Don't include time stamp in file
+
 
 ;; Generate the site output
 (org-publish-all t)
