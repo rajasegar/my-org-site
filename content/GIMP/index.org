@@ -5,7 +5,7 @@ This is a space where I will share my thoughts on GIMP.
 GIMP stands for GNU Image Manipulation Program
 
 ** Tutorials
- - [[./GIMP/abstract-bg-using-solid-noise-tutorial.org][Abstract Background using Solid Noise]]
+ - [[./abstract-bg-using-solid-noise-tutorial.org][Abstract Background using Solid Noise]]
  - TBA
  - TBA
 
